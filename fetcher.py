@@ -230,6 +230,63 @@ def fetch_ashby(slug):
     return jobs
 
 
+
+def fetch_smartrecruiters(slug):
+    """
+    Fetch all jobs from a SmartRecruiters board.
+    SmartRecruiters has a fully public REST API — no key needed.
+    The slug is the company identifier:
+    https://careers.smartrecruiters.com/{slug}
+    """
+    jobs = []
+    offset = 0
+    limit  = 100
+
+    while True:
+        url = (
+            f"https://api.smartrecruiters.com/v1/companies/{slug}/postings"
+            f"?limit={limit}&offset={offset}&status=PUBLIC"
+        )
+        data = fetch_json(url)
+
+        if data is None or "content" not in data:
+            return None if offset == 0 else jobs
+
+        postings = data.get("content", [])
+        if not postings:
+            break
+
+        for j in postings:
+            loc_obj  = j.get("location", {})
+            city     = loc_obj.get("city", "")
+            country  = loc_obj.get("country", "")
+            remote   = loc_obj.get("remote", False)
+            location = ", ".join(filter(None, [city, country]))
+
+            dept      = j.get("department", {}).get("label", "")
+            exp       = j.get("experienceLevel", {})
+            exp_label = exp.get("label", "") if isinstance(exp, dict) else ""
+            description = f"{dept} {exp_label}".strip()
+
+            jobs.append({
+                "id":          f"sr_{j['id']}",
+                "title":       j.get("name", ""),
+                "company":     slug,
+                "ats":         "smartrecruiters",
+                "location":    location,
+                "remote":      1 if remote else 0,
+                "description": description,
+                "apply_url":   f"https://careers.smartrecruiters.com/{slug}/{j['id']}",
+            })
+
+        total = data.get("totalFound", 0)
+        offset += limit
+        if offset >= total:
+            break
+        time.sleep(REQUEST_DELAY)
+
+    return jobs
+
 # ─────────────────────────────────────────────
 # FILTER ENGINE
 # ─────────────────────────────────────────────
@@ -314,9 +371,10 @@ def update_checked(conn, slug, ats):
 # ─────────────────────────────────────────────
 
 FETCHERS = {
-    "greenhouse": fetch_greenhouse,
-    "lever": fetch_lever,
-    "ashby": fetch_ashby,
+    "greenhouse":      fetch_greenhouse,
+    "lever":           fetch_lever,
+    "ashby":           fetch_ashby,
+    "smartrecruiters": fetch_smartrecruiters,
 }
 
 

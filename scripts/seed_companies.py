@@ -62,6 +62,61 @@ SOURCES = [
     # },
 ]
 
+# ─────────────────────────────────────────────────────────────────
+# SMARTRECRUITERS COMPANY LIST
+# SmartRecruiters is used by larger, more established companies
+# (Visa, Bosch, LinkedIn, Lidl, Ikea, etc). Since these don't
+# appear in the new-grad GitHub repos above, we maintain a
+# separate curated list here. Add companies as you discover them.
+# Slug = the company identifier in their careers URL:
+# https://careers.smartrecruiters.com/{SLUG}
+# ─────────────────────────────────────────────────────────────────
+
+SMARTRECRUITERS_SLUGS = [
+    # Finance / Banking
+    "Visa",
+    "AmericanExpress",
+    "CapitalOne",
+    "Fiserv",
+    "PayPal",
+    "Mastercard",
+    "CharlesSchwab",
+    "PNBFINANCIALSERVICES",
+
+    # Tech / Software
+    "Bosch",
+    "Xiaomi",
+    "Criteo",
+    "Zendesk",
+    "Wayfair",
+    "Delivery-Hero",
+    "Gartner",
+    "ING",
+    "Klarna",
+
+    # Retail / Consumer
+    "IKEA",
+    "Lidl",
+    "Zalando",
+    "HelloFresh",
+    "Redbull",
+
+    # Healthcare / Life Sciences
+    "Fresenius",
+    "Siemens-Healthineers",
+
+    # Consulting / Enterprise
+    "CGI",
+    "Capgemini",
+    "NTTData",
+    "Conduent",
+
+    # Media / Entertainment
+    "Ubisoft",
+    "Deezer",
+    "Dailymotion",
+]
+
 
 # ─────────────────────────────────────────────────────────────────
 # REGEX PATTERNS
@@ -81,6 +136,11 @@ PATTERNS = {
     "ashby": [
         # https://jobs.ashbyhq.com/linear
         r'jobs\.ashbyhq\.com/([a-zA-Z0-9_-]+)',
+    ],
+    "smartrecruiters": [
+        # https://careers.smartrecruiters.com/Visa
+        # https://jobs.smartrecruiters.com/Bosch
+        r'(?:careers|jobs)\.smartrecruiters\.com/([a-zA-Z0-9_-]+)',
     ],
 }
 
@@ -250,6 +310,26 @@ def seed(dry_run=False, probe=False):
                     added += 1
                 else:
                     skipped += 1
+
+    # ── Insert SmartRecruiters slugs from curated list ──────────
+    print("  → SmartRecruiters (curated list)")
+    sr_added = 0
+    for slug in SMARTRECRUITERS_SLUGS:
+        slug_lower = slug.lower()
+        if slug_lower in BLOCKLIST or len(slug_lower) < 2:
+            continue
+        if dry_run:
+            print(f"  + smartrecruiters/{slug}")
+            added += 1
+            sr_added += 1
+        else:
+            if insert_company(conn, slug, "smartrecruiters"):
+                added += 1
+                sr_added += 1
+            else:
+                skipped += 1
+    if not dry_run:
+        print(f"     smartrecruiters: {sr_added} added")
 
     if not dry_run:
         conn.close()
