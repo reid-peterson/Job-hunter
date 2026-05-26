@@ -7,6 +7,7 @@ No API keys required — all public endpoints.
 import urllib.request
 import urllib.error
 import json
+import os
 import time
 import sqlite3
 import re
@@ -365,6 +366,27 @@ def update_checked(conn, slug, ats):
     )
     conn.commit()
 
+def export_json(path="data/jobs.json"):
+    """Export all jobs from SQLite to a JSON file for the dashboard."""
+    import json as _json
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    c = conn.cursor()
+    c.execute("""
+        SELECT id, title, company, ats, location, remote,
+               apply_url, date_found
+        FROM jobs
+        ORDER BY date_found DESC, id DESC
+    """)
+    rows = [dict(r) for r in c.fetchall()]
+    conn.close()
+
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w") as f:
+        _json.dump(rows, f, indent=2)
+
+    print(f"✅ Exported {len(rows)} jobs to {path}")
+    print(f"   Open dashboard.html and drop in {path} to view.")
 
 # ─────────────────────────────────────────────
 # MAIN RUN
@@ -440,24 +462,4 @@ if __name__ == "__main__":
         run()
 
 
-def export_json(path="data/jobs.json"):
-    """Export all jobs from SQLite to a JSON file for the dashboard."""
-    import json as _json
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    c = conn.cursor()
-    c.execute("""
-        SELECT id, title, company, ats, location, remote,
-               apply_url, date_found
-        FROM jobs
-        ORDER BY date_found DESC, id DESC
-    """)
-    rows = [dict(r) for r in c.fetchall()]
-    conn.close()
 
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w") as f:
-        _json.dump(rows, f, indent=2)
-
-    print(f"✅ Exported {len(rows)} jobs to {path}")
-    print(f"   Open dashboard.html and drop in {path} to view.")
