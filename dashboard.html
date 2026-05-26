@@ -100,7 +100,7 @@
   /* ── CONTROLS ── */
   .controls {
     display: grid;
-    grid-template-columns: 1fr auto auto auto auto;
+    grid-template-columns: 1fr auto auto auto auto auto auto;
     gap: 12px;
     margin-bottom: 28px;
     align-items: center;
@@ -510,11 +510,18 @@
       <option value="greenhouse">Greenhouse</option>
       <option value="lever">Lever</option>
       <option value="ashby">Ashby</option>
+      <option value="smartrecruiters">SmartRecruiters</option>
     </select>
     <select id="filter-remote" onchange="render()">
       <option value="">All Locations</option>
       <option value="1">Remote Only</option>
       <option value="0">On-site Only</option>
+    </select>
+    <select id="filter-date" onchange="render()">
+      <option value="">All Time</option>
+      <option value="today">Today</option>
+      <option value="week">This Week</option>
+      <option value="month">This Month</option>
     </select>
     <button class="filter-btn" id="btn-saved" onclick="toggleFilter('saved')">
       <span class="dot"></span> Saved
@@ -654,6 +661,15 @@ function render() {
 
   const today = new Date().toISOString().split('T')[0];
 
+  const dateFilter = document.getElementById('filter-date').value;
+  const cutoff = (() => {
+    const d = new Date();
+    if (dateFilter === 'today') return new Date(d.getFullYear(), d.getMonth(), d.getDate());
+    if (dateFilter === 'week')  return new Date(d - 7  * 86400000);
+    if (dateFilter === 'month') return new Date(d - 30 * 86400000);
+    return null;
+  })();
+
   const filtered = allJobs.filter(j => {
     const js = state[j.id] || {};
 
@@ -661,6 +677,10 @@ function render() {
     if (filters.applied && !js.applied) return false;
     if (atsFilter && j.ats !== atsFilter) return false;
     if (remoteFilter !== '' && String(j.remote) !== remoteFilter) return false;
+    if (cutoff) {
+      const jobDate = new Date(j.date_found + 'T00:00:00');
+      if (jobDate < cutoff) return false;
+    }
     if (search) {
       const haystack = `${j.title} ${j.company} ${j.location || ''}`.toLowerCase();
       if (!haystack.includes(search)) return false;
