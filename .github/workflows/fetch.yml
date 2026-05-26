@@ -1,0 +1,31 @@
+on:
+  schedule:
+    - cron: '0 12 * * *'   # runs daily at 12pm UTC (8am EST)
+  workflow_dispatch:         # lets you trigger it manually from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch jobs
+        run: python fetcher.py
+
+      - name: Export to JSON
+        run: python fetcher.py --export
+
+      - name: Commit updated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.db data/jobs.json
+          git diff --staged --quiet || git commit -m "chore: fetch jobs $(date -u +%Y-%m-%d)"
+          git push
