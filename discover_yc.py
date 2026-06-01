@@ -123,7 +123,7 @@ def probe_greenhouse(slug):
     url = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
     try:
         req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=5) as r:
             return r.status == 200
     except SAFE_EXCEPTIONS:
         return False
@@ -133,7 +133,7 @@ def probe_lever(slug):
     url = f"https://api.lever.co/v0/postings/{slug}?mode=json"
     try:
         req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=5) as r:
             body = json.loads(r.read().decode())
             return isinstance(body, list)
     except SAFE_EXCEPTIONS:
@@ -152,7 +152,7 @@ def probe_ashby(slug):
             url, data=payload,
             headers={**HEADERS, "Content-Type": "application/json"}
         )
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=5) as r:
             body = json.loads(r.read().decode())
             return body.get("data", {}).get("jobBoard") is not None
     except SAFE_EXCEPTIONS:
@@ -173,7 +173,7 @@ PROBERS = {
 def fetch_json(url):
     try:
         req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=20) as r:
+        with urllib.request.urlopen(req, timeout=5) as r:
             return json.loads(r.read().decode("utf-8"))
     except SAFE_EXCEPTIONS as e:
         print(f"  ✗ Could not fetch {url}: {e}")
@@ -254,7 +254,7 @@ def fmt_eta(start_time, done, total):
 # MAIN
 # ─────────────────────────────────────────────────────────────────
 
-def run(delay=0.5, resume=False, limit=None, status_filter=None):
+def run(delay=0.2, resume=False, limit=None, status_filter=None):
     init_db()
 
     print(f"\n📡 Fetching YC company list...")
