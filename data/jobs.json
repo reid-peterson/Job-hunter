@@ -810,6 +810,16 @@
     "date_found": "2026-06-01"
   },
   {
+    "id": "lv_6f2f603a-d1b0-44c8-b4bf-0e1027c22c48",
+    "title": "Software Engineer III - Python",
+    "company": "emburse",
+    "ats": "lever",
+    "location": "Toronto",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/emburse/6f2f603a-d1b0-44c8-b4bf-0e1027c22c48",
+    "date_found": "2026-06-01"
+  },
+  {
     "id": "lv_6ca815d9-3477-4f62-82ab-6d2831b1bf0f",
     "title": "Intern: Design",
     "company": "hush",
@@ -817,6 +827,16 @@
     "location": "Brooklyn, NY",
     "remote": 0,
     "apply_url": "https://jobs.lever.co/hush/6ca815d9-3477-4f62-82ab-6d2831b1bf0f",
+    "date_found": "2026-06-01"
+  },
+  {
+    "id": "lv_69e543ea-9a91-45a7-98b1-b99a8fa32adf",
+    "title": "Bilingual (Spanish) Commercial Health Call Center Representative - Remote",
+    "company": "evry-health",
+    "ats": "lever",
+    "location": "Remote",
+    "remote": 1,
+    "apply_url": "https://jobs.lever.co/evry-health/69e543ea-9a91-45a7-98b1-b99a8fa32adf",
     "date_found": "2026-06-01"
   },
   {
@@ -1190,6 +1210,16 @@
     "date_found": "2026-06-01"
   },
   {
+    "id": "lv_2b694ca9-0f0d-4ab5-a4e6-b5531cda59c8",
+    "title": "Brand Associate",
+    "company": "meesho",
+    "ats": "lever",
+    "location": "Bangalore, Karnataka",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/meesho/2b694ca9-0f0d-4ab5-a4e6-b5531cda59c8",
+    "date_found": "2026-06-01"
+  },
+  {
     "id": "lv_2aa660a4-8b9f-4037-8b54-f8e76046a202",
     "title": "Writer, EDM Oilers (Edmonton, AB, CAN)",
     "company": "theathletic",
@@ -1387,6 +1417,16 @@
     "location": "Bangalore, Karnataka",
     "remote": 0,
     "apply_url": "https://jobs.lever.co/meesho/040a5a75-28d2-4b56-904b-071c41d4ea90",
+    "date_found": "2026-06-01"
+  },
+  {
+    "id": "gh_8570083002",
+    "title": "GTM Engineer",
+    "company": "lattice",
+    "ats": "greenhouse",
+    "location": "Remote - US, PST preferred",
+    "remote": 1,
+    "apply_url": "https://lattice.com/job?gh_jid=8570083002",
     "date_found": "2026-06-01"
   },
   {
@@ -2100,6 +2140,36 @@
     "date_found": "2026-06-01"
   },
   {
+    "id": "gh_7973810",
+    "title": "Experience Partner, Programs",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "location": "Remote - United States",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/7973810",
+    "date_found": "2026-06-01"
+  },
+  {
+    "id": "gh_7972428",
+    "title": "Field Application Engineer - Commercial",
+    "company": "rti",
+    "ats": "greenhouse",
+    "location": "Germany",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/rti/jobs/7972428",
+    "date_found": "2026-06-01"
+  },
+  {
+    "id": "gh_7971894",
+    "title": "Quality Insights Analyst- Volume Tiers",
+    "company": "airbnb",
+    "ats": "greenhouse",
+    "location": "Gurugram, India",
+    "remote": 0,
+    "apply_url": "https://careers.airbnb.com/positions/7971894?gh_jid=7971894",
+    "date_found": "2026-06-01"
+  },
+  {
     "id": "gh_7968128",
     "title": "People Operations Coordinator (Back Half)",
     "company": "flexport",
@@ -2147,6 +2217,16 @@
     "location": "Singapore",
     "remote": 0,
     "apply_url": "https://stripe.com/jobs/search?gh_jid=7964956",
+    "date_found": "2026-06-01"
+  },
+  {
+    "id": "gh_7964759",
+    "title": "Risk Operations Analyst - SSO",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Singapore",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7964759",
     "date_found": "2026-06-01"
   },
   {
@@ -11887,6 +11967,16 @@
     "location": "Croatia",
     "remote": 0,
     "apply_url": "https://job-boards.eu.greenhouse.io/super/jobs/4720678101",
+    "date_found": "2026-06-01"
+  },
+  {
+    "id": "gh_4714285101",
+    "title": "Product Support Operator",
+    "company": "super",
+    "ats": "greenhouse",
+    "location": "Croatia",
+    "remote": 0,
+    "apply_url": "https://job-boards.eu.greenhouse.io/super/jobs/4714285101",
     "date_found": "2026-06-01"
   },
   {
