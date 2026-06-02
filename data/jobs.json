@@ -1,5 +1,255 @@
 [
   {
+    "id": "lv_c0e5c6c9-ebc0-4767-8612-9feb83861a54",
+    "title": "Test Engineer",
+    "company": "tovala",
+    "ats": "lever",
+    "location": "Urbana, IL",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/tovala/c0e5c6c9-ebc0-4767-8612-9feb83861a54",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "lv_6d0ab1bc-da9d-4b91-9d31-accc6a298d0c",
+    "title": "Remote Front Desk Agent",
+    "company": "canarytechnologies",
+    "ats": "lever",
+    "location": "New York, NY",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/canarytechnologies/6d0ab1bc-da9d-4b91-9d31-accc6a298d0c",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "lv_16db25f4-62e7-4f0c-9f03-63c5622e5a50",
+    "title": "Remote Front Desk Agent",
+    "company": "canarytechnologies",
+    "ats": "lever",
+    "location": "Remote - LATAM",
+    "remote": 1,
+    "apply_url": "https://jobs.lever.co/canarytechnologies/16db25f4-62e7-4f0c-9f03-63c5622e5a50",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_8571745002",
+    "title": "Executive Assistant to CTO",
+    "company": "brex",
+    "ats": "greenhouse",
+    "location": "Seattle, Washington, United States",
+    "remote": 0,
+    "apply_url": "https://www.brex.com/careers/8571745002?gh_jid=8571745002",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_8571744002",
+    "title": "Executive Assistant to CTO",
+    "company": "brex",
+    "ats": "greenhouse",
+    "location": "San Francisco, California, United States",
+    "remote": 0,
+    "apply_url": "https://www.brex.com/careers/8571744002?gh_jid=8571744002",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_8562593002",
+    "title": "Commercial Legal Counsel",
+    "company": "gitlab",
+    "ats": "greenhouse",
+    "location": "Remote, US",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8562593002",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7967656",
+    "title": "Executive Content Marketer",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "San Francisco",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7967656",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7964697",
+    "title": "Account Executive, AI Sales",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "San Francisco, CA",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7964697",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7954688",
+    "title": "Account Executive, AI Sales (Grower)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "San Francisco, CA",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7954688",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7947613",
+    "title": "Business Analyst, Operations",
+    "company": "lob",
+    "ats": "greenhouse",
+    "location": "United States",
+    "remote": 0,
+    "apply_url": "http://www.lob.com/careers/apply?gh_jid=7947613",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7922832",
+    "title": "Software Engineer",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Seattle, WA",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7922832",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7872754",
+    "title": "Systems Automation & Integration Engineer",
+    "company": "dropbox",
+    "ats": "greenhouse",
+    "location": "Remote - Poland",
+    "remote": 1,
+    "apply_url": "https://jobs.dropbox.com/listing/7872754?gh_jid=7872754",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7872752",
+    "title": "Systems Automation & Integration Engineer",
+    "company": "dropbox",
+    "ats": "greenhouse",
+    "location": "Remote - Mexico",
+    "remote": 1,
+    "apply_url": "https://jobs.dropbox.com/listing/7872752?gh_jid=7872752",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7618977",
+    "title": "Software Engineer, Core Technology",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Bangalore",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7618977",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_7532733",
+    "title": "Account Executive, AI Sales",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "San Francisco, CA",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7532733",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_6909093",
+    "title": "Software Engineer",
+    "company": "reddit",
+    "ats": "greenhouse",
+    "location": "Remote - Ontario, Canada",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_6010580004",
+    "title": "Vehicle Quality-Control Associate (Evening Shift)",
+    "company": "clutch",
+    "ats": "greenhouse",
+    "location": "Mississauga, Ontario, Canada ",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clutch/jobs/6010580004",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_6010576004",
+    "title": "Vehicle Capture Representative",
+    "company": "clutch",
+    "ats": "greenhouse",
+    "location": "Etobicoke, Ontario, Canada",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clutch/jobs/6010576004",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_6010557004",
+    "title": "Parts Associate (Evening Shift)",
+    "company": "clutch",
+    "ats": "greenhouse",
+    "location": "Mississauga, Ontario, Canada",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clutch/jobs/6010557004",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_6007609004",
+    "title": "Customer Success Engineer",
+    "company": "algolia",
+    "ats": "greenhouse",
+    "location": "Paris, France",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/6007609004",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_5166191004",
+    "title": "Software Engineer - Search Platform",
+    "company": "algolia",
+    "ats": "greenhouse",
+    "location": "London, England",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/5166191004",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_4666394005",
+    "title": "Client Services Associate I, Prenatal",
+    "company": "billiontoone",
+    "ats": "greenhouse",
+    "location": "Union City, CA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/billiontoone/jobs/4666394005",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_4267684009",
+    "title": "Pet Insurance Sales Associate - Salt Lake City, UT",
+    "company": "fetch",
+    "ats": "greenhouse",
+    "location": "Salt Lake City, UT",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/fetch/jobs/4267684009",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_4264988009",
+    "title": "AI Tooling Engineer",
+    "company": "qventus",
+    "ats": "greenhouse",
+    "location": "Remote, United States",
+    "remote": 1,
+    "apply_url": "https://www.qventus.com/company/working-qventus/job?gh_jid=4264988009",
+    "date_found": "2026-06-02"
+  },
+  {
+    "id": "gh_4264977009",
+    "title": "AI Tooling Engineer",
+    "company": "qventus",
+    "ats": "greenhouse",
+    "location": "Remote, United States",
+    "remote": 1,
+    "apply_url": "https://www.qventus.com/company/working-qventus/job?gh_jid=4264977009",
+    "date_found": "2026-06-02"
+  },
+  {
     "id": "lv_fef774bb-5fbd-47f5-b170-21deaac9cabf",
     "title": "Scientist",
     "company": "mytos",
