@@ -1,5 +1,445 @@
 [
   {
+    "id": "lv_fe839191-1761-4094-9d3c-4d554904b84d",
+    "title": "Automation engineer (Warehouse Automation)",
+    "company": "meesho",
+    "ats": "lever",
+    "location": "Bangalore, Karnataka",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/meesho/fe839191-1761-4094-9d3c-4d554904b84d",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "lv_ef069e3b-ecea-4ab7-82cb-79880be964d0",
+    "title": "Customer Experience Agent, HQ",
+    "company": "fi",
+    "ats": "lever",
+    "location": "United States",
+    "remote": 1,
+    "apply_url": "https://jobs.lever.co/fi/ef069e3b-ecea-4ab7-82cb-79880be964d0",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "lv_cc41709b-2f47-42ed-a5df-33f686cb8d8d",
+    "title": "Bilingual (Spanish) Commercial Health Call Center Representative",
+    "company": "evry-health",
+    "ats": "lever",
+    "location": "Remote",
+    "remote": 1,
+    "apply_url": "https://jobs.lever.co/evry-health/cc41709b-2f47-42ed-a5df-33f686cb8d8d",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "lv_9c564056-3475-4ee1-9b81-db8051e62be9",
+    "title": "AI Solutions Engineer",
+    "company": "evry-health",
+    "ats": "lever",
+    "location": "Dallas-Fort Worth, Texas",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/evry-health/9c564056-3475-4ee1-9b81-db8051e62be9",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_8580411002",
+    "title": "Machine Learning Engineer II",
+    "company": "maymobility",
+    "ats": "greenhouse",
+    "location": "Remote, USA",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/maymobility/jobs/8580411002",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_8550544002",
+    "title": "Data Analyst",
+    "company": "modernhealth",
+    "ats": "greenhouse",
+    "location": "Remote - US",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/modernhealth/jobs/8550544002",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7985368",
+    "title": "Finance & Strategy Analyst",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "CHI, SEA, NYC, SF",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7985368",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7984715",
+    "title": "Account Executive, Platforms (French Speaking)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Dublin, Paris",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7984715",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7982832",
+    "title": "Account Executive, Startups Hunter",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Sweden (Remote)",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7982832",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7982728",
+    "title": "Strategic Finance Associate",
+    "company": "clear",
+    "ats": "greenhouse",
+    "location": "New York, New York, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clear/jobs/7982728",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7982720",
+    "title": "Secure Device Mobile Engineer",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "New York, New York ",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7982720",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7980578",
+    "title": "Product Designer - Dashboard",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US / Canada",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7980578",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7980402",
+    "title": "Data Scientist, Economic Insights & Research",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7980402",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7979393",
+    "title": "Security Analyst, Bug Bounty",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Remote, North America",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7979393",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7977745",
+    "title": "Designer, Web Presence & Platform",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US / Cananda",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7977745",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7955051",
+    "title": "Operations Associate - Bridge (CDMX)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Mexico City",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7955051",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7919288",
+    "title": "Risk Operations Analyst - PRO",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Singapore",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7919288",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7867328",
+    "title": "Social Media, Customer Support Associate ",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Mexico",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7867328",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7776179",
+    "title": "Security Engineer, Bridge",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "SF, New York, Seattle, Dublin",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7776179",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7763151003",
+    "title": "Nurse Practitioner / Physician Assistant - Virtual - Remote (CA license)",
+    "company": "tia",
+    "ats": "greenhouse",
+    "location": "Virtual",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/tia/jobs/7763151003",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7762859003",
+    "title": "Medical Assistant - Silver Lake, CA",
+    "company": "tia",
+    "ats": "greenhouse",
+    "location": "Los Angeles, California, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/tia/jobs/7762859003",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7761694",
+    "title": "Software Engineer, Product Security Data Platforms",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Seattle",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7761694",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7704660",
+    "title": "People Partner",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "San Francisco, Seattle, New York, Chicago, Atlanta or Toronto",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7704660",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7466921",
+    "title": "People Partner",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "San Francisco, Chicago or NYC",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7466921",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7325252",
+    "title": "Frontend Engineer, Payments & Risk",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "N/A",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7325252",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_7230921",
+    "title": "Risk Operations Analyst",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Remote",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7230921",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_6015241004",
+    "title": "Auto Body Estimator",
+    "company": "clutch",
+    "ats": "greenhouse",
+    "location": "Mississauga, Ontario, Canada",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clutch/jobs/6015241004",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_6015078004",
+    "title": "Parts Associate",
+    "company": "clutch",
+    "ats": "greenhouse",
+    "location": "Mississauga, Ontario, Canada",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clutch/jobs/6015078004",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_6014660004",
+    "title": "Software Engineer II - Authorization Team",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "location": "Atlanta",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/pagerduty/jobs/6014660004",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_6014068004",
+    "title": "Customer Experience Coordinator",
+    "company": "clutch",
+    "ats": "greenhouse",
+    "location": "Halifax, Nova Scotia, Canada",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clutch/jobs/6014068004",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_6013312004",
+    "title": "Data Entry, Contractor",
+    "company": "carrotfertility",
+    "ats": "greenhouse",
+    "location": "Remote",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/carrotfertility/jobs/6013312004",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_5578487",
+    "title": "Air Planning Associate, Hanoi ",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "location": "Hanoi, Vietnam",
+    "remote": 0,
+    "apply_url": "https://boards.greenhouse.io/flexport/jobs/5578487?gh_jid=5578487",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4865352101",
+    "title": "Strategy Analyst Intern",
+    "company": "super",
+    "ats": "greenhouse",
+    "location": "Spain",
+    "remote": 0,
+    "apply_url": "https://job-boards.eu.greenhouse.io/super/jobs/4865352101",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4780793101",
+    "title": "Intern - Growth (AI & MarTech)",
+    "company": "groww",
+    "ats": "greenhouse",
+    "location": "Bengaluru-VTP, India",
+    "remote": 0,
+    "apply_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4780793101",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4703343005",
+    "title": "AI Builder Intern",
+    "company": "scaleai",
+    "ats": "greenhouse",
+    "location": "San Francisco, CA; New York, NY",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4703333005",
+    "title": "Automation Service Engineering Associate I/II, Oncology",
+    "company": "billiontoone",
+    "ats": "greenhouse",
+    "location": "Menlo Park, CA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/billiontoone/jobs/4703333005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4703242005",
+    "title": "Decision Center Associate ",
+    "company": "goatgroup",
+    "ats": "greenhouse",
+    "location": "Fontana, California, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/goatgroup/jobs/4703242005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4702982005",
+    "title": "Clinical Laboratory Associate (CLA), Oncology",
+    "company": "billiontoone",
+    "ats": "greenhouse",
+    "location": "Menlo Park, CA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702982005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4702972005",
+    "title": "Account Executive",
+    "company": "billiontoone",
+    "ats": "greenhouse",
+    "location": "Washington, D.C.",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702972005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4702971005",
+    "title": "Account Executive",
+    "company": "billiontoone",
+    "ats": "greenhouse",
+    "location": "Arlington, VA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702971005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4702785005",
+    "title": "Associate General Counsel, Product & IP",
+    "company": "scaleai",
+    "ats": "greenhouse",
+    "location": "San Francisco, CA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4702785005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4702680005",
+    "title": "Intake Associate",
+    "company": "goatgroup",
+    "ats": "greenhouse",
+    "location": "Fontana, California, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/goatgroup/jobs/4702680005",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4273828009",
+    "title": "Pet Insurance Sales Associate - Nashville, TN",
+    "company": "fetch",
+    "ats": "greenhouse",
+    "location": "Nashville, TN",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/fetch/jobs/4273828009",
+    "date_found": "2026-06-06"
+  },
+  {
+    "id": "gh_4273643009",
+    "title": "Nurse Practitioner",
+    "company": "firsthand",
+    "ats": "greenhouse",
+    "location": "Ohio",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/firsthand/jobs/4273643009",
+    "date_found": "2026-06-06"
+  },
+  {
     "id": "lv_d8f5bdc3-3f49-4697-94bc-2200e8df90d0",
     "title": "Lab Engineer (Intern)",
     "company": "ans",
