@@ -1,5 +1,165 @@
 [
   {
+    "id": "lv_c19661b5-4fd1-4b7c-bc47-c3aef213b128",
+    "title": "Behavioral Health Counselor",
+    "company": "glide",
+    "ats": "lever",
+    "location": "San Francisco",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/glide/c19661b5-4fd1-4b7c-bc47-c3aef213b128",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "lv_64f0c454-e436-46c7-9ddb-3e8e4fde4987",
+    "title": "Flight Support Engineer - Night Shift (Brazil)",
+    "company": "pyka",
+    "ats": "lever",
+    "location": "Brazil",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/pyka/64f0c454-e436-46c7-9ddb-3e8e4fde4987",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_8502419002",
+    "title": "Machine Learning Engineer II - Autonomous Driving & Inference Runtime",
+    "company": "maymobility",
+    "ats": "greenhouse",
+    "location": "Anywhere, USA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/maymobility/jobs/8502419002",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_8187068002",
+    "title": "Machine Learning Engineer II - Autonomous Driving Performance Evaluation",
+    "company": "maymobility",
+    "ats": "greenhouse",
+    "location": "Anywhere, USA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/maymobility/jobs/8187068002",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7991738",
+    "title": "Junior Design Intern",
+    "company": "pursuit",
+    "ats": "greenhouse",
+    "location": "Long Island City",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/pursuit/jobs/7991738",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7991636",
+    "title": "Software Engineer",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Seattle ",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7991636",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7989111",
+    "title": "Integration Engineer, Professional Services",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Germany, Berlin",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7989111",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7988600",
+    "title": "Intern, Control Tower & Service Delivery",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "location": "Shenzhen, China",
+    "remote": 0,
+    "apply_url": "https://boards.greenhouse.io/flexport/jobs/7988600?gh_jid=7988600",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7988429",
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Singapore",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7988429",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7981587",
+    "title": "Operations Associate - Product Support Operations (CDMX)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "MX- Mexico City",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7981587",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7975723",
+    "title": "Solutions Architect, AI",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US-San Francisco",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7975723",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7975721",
+    "title": "Payments Analyst",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "LOCATION",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7975721",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7746888",
+    "title": "Account Executive, Funded Startups, Hunter",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "San Francisco, New York City ",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7746888",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_7451366",
+    "title": "Account Executive, Platforms",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "London",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7451366",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_6016771004",
+    "title": "Controller",
+    "company": "legalist",
+    "ats": "greenhouse",
+    "location": "US (Remote)",
+    "remote": 1,
+    "apply_url": "https://www.legalist.com/careers?gh_jid=6016771004",
+    "date_found": "2026-06-09"
+  },
+  {
+    "id": "gh_4875247101",
+    "title": "Business Operations Associate (GIFT City)",
+    "company": "groww",
+    "ats": "greenhouse",
+    "location": "India",
+    "remote": 0,
+    "apply_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4875247101",
+    "date_found": "2026-06-09"
+  },
+  {
     "id": "gh_7978586",
     "title": "Solutions Architect (SEA)",
     "company": "stripe",
