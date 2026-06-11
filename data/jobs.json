@@ -1,5 +1,505 @@
 [
   {
+    "id": "lv_e3c8c967-68d2-41d0-8ecc-218b88e9ca65",
+    "title": "AI Data Labeler",
+    "company": "mashgin",
+    "ats": "lever",
+    "location": "Remote",
+    "remote": 1,
+    "apply_url": "https://jobs.lever.co/mashgin/e3c8c967-68d2-41d0-8ecc-218b88e9ca65",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "lv_e2598003-88cf-4398-ac00-79e7eda192aa",
+    "title": "Structural Designer III",
+    "company": "ans",
+    "ats": "lever",
+    "location": "Raleigh, NC",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/ans/e2598003-88cf-4398-ac00-79e7eda192aa",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "lv_d40908e2-6e22-4dbb-a87f-a5b214d0eaca",
+    "title": "Agentic Product Analyst",
+    "company": "netomi",
+    "ats": "lever",
+    "location": "Gurugram",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/netomi/d40908e2-6e22-4dbb-a87f-a5b214d0eaca",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "lv_ba379f47-091b-4f2d-82d3-e97a0821227e",
+    "title": "Agentic Engineer",
+    "company": "netomi",
+    "ats": "lever",
+    "location": "Remote - India",
+    "remote": 1,
+    "apply_url": "https://jobs.lever.co/netomi/ba379f47-091b-4f2d-82d3-e97a0821227e",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "lv_b4d9ce2b-479e-47f2-a9c0-52827e94e129",
+    "title": "Agentic Solution Engineer",
+    "company": "netomi",
+    "ats": "lever",
+    "location": "Remote - India",
+    "remote": 1,
+    "apply_url": "https://jobs.lever.co/netomi/b4d9ce2b-479e-47f2-a9c0-52827e94e129",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "lv_9b03d87f-b9ba-44c0-8f17-0f7a4cc2e045",
+    "title": "GTM Reporting Analyst (Revenue Operations)",
+    "company": "emburse",
+    "ats": "lever",
+    "location": "Barcelona",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/emburse/9b03d87f-b9ba-44c0-8f17-0f7a4cc2e045",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "lv_6affa02c-1342-43de-9b2b-91be861c52a6",
+    "title": "Associate Account Executive",
+    "company": "emburse",
+    "ats": "lever",
+    "location": "Dallas, TX",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/emburse/6affa02c-1342-43de-9b2b-91be861c52a6",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "lv_13517020-063c-4eba-8e07-37c555418d48",
+    "title": "Platform Engineer III",
+    "company": "emburse",
+    "ats": "lever",
+    "location": "Toronto",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/emburse/13517020-063c-4eba-8e07-37c555418d48",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_8587789002",
+    "title": "Software Engineer II, Cloud Infrastructure",
+    "company": "brex",
+    "ats": "greenhouse",
+    "location": "United States",
+    "remote": 0,
+    "apply_url": "https://www.brex.com/careers/8587789002?gh_jid=8587789002",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_8584446002",
+    "title": "Credit Policy & Decisioning Analyst ",
+    "company": "reach",
+    "ats": "greenhouse",
+    "location": "New York, NY",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/reach/jobs/8584446002",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7997555",
+    "title": "Account Executive, Enterprise - Grower",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US-New York, US-Chicago, US-Atlanta, US-San Francisco",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7997555",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7997538",
+    "title": "Benefits Processing Associate",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "location": "Lindon, Utah",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/humaninterest/jobs/7997538",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7994960",
+    "title": "Software Engineer I",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "location": "Beijing, China",
+    "remote": 0,
+    "apply_url": "https://boards.greenhouse.io/flexport/jobs/7994960?gh_jid=7994960",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7994947",
+    "title": "Software Engineer II",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "location": "Beijing, China",
+    "remote": 0,
+    "apply_url": "https://boards.greenhouse.io/flexport/jobs/7994947?gh_jid=7994947",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7994590",
+    "title": "Sales Development Representative (Greater China)",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Singapore",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7994590",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7994330",
+    "title": "Account Executive, Enterprise - Hunter",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US-CA-Remote, US-San Francisco",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7994330",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7993151",
+    "title": "Account Executive - Enterprise, Grower",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US-Remote, US-San Francisco, US-Chicago, US-New York, US-Seattle",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7993151",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7991718",
+    "title": "Software Engineer, New Grad, Developer Experience & Product Platform",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Toronto",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7991718",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7964568",
+    "title": "Partner Solutions Architect, Technology Partnerships",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "United States",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7964568",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7961609",
+    "title": "Account Executive, Enterprise Platforms, Hunter",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7961609",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7813279",
+    "title": "Product Support Specialist",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Dublin",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7813279",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7769564",
+    "title": "Brand Designer, Identity",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Spain",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7769564",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7768982003",
+    "title": "Nurse Practitioner/Physician Assistant - Aesthetic Dermatology - Pasadena, CA - Onsite",
+    "company": "tia",
+    "ats": "greenhouse",
+    "location": "Pasadena, California, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/tia/jobs/7768982003",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7768366003",
+    "title": " Adult Mental Health Speech and Language Therapist",
+    "company": "pulse",
+    "ats": "greenhouse",
+    "location": "London",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/pulse/jobs/7768366003",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7768168003",
+    "title": "Operations Specialist - Driver - Akron, OH",
+    "company": "bird",
+    "ats": "greenhouse",
+    "location": "Akron",
+    "remote": 0,
+    "apply_url": "https://www.bird.co/careers?gh_jid=7768168003",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7767102003",
+    "title": "Adult Acute Speech and Language Therapist",
+    "company": "pulse",
+    "ats": "greenhouse",
+    "location": "Surrey",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/pulse/jobs/7767102003",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7725957003",
+    "title": "Our Future Health - RGN",
+    "company": "pulse",
+    "ats": "greenhouse",
+    "location": "Manchester",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/pulse/jobs/7725957003",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7532806",
+    "title": "Software Engineer, Collaboration",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Dublin",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7532806",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7532267",
+    "title": "Machine Learning PhD Intern, Economics (Fall)",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "location": "United States - Remote",
+    "remote": 1,
+    "apply_url": "https://instacart.careers/job/?gh_jid=7532267",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7430296",
+    "title": "Risk Operations Analyst, Financial Crimes Programs",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "Remote, US",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7430296",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_7298935",
+    "title": "Account Executive, Platforms (New Business) ",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "US-Remote ",
+    "remote": 1,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7298935",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6017726004",
+    "title": "Medical Records, Contractor ",
+    "company": "carrotfertility",
+    "ats": "greenhouse",
+    "location": "Remote",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/carrotfertility/jobs/6017726004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6015663004",
+    "title": "Project Document Control Supervisor (Contract)",
+    "company": "oklo",
+    "ats": "greenhouse",
+    "location": "Santa Clara, CA or Remote",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/oklo/jobs/6015663004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6015636004",
+    "title": "Document Control Specialist (Contract)",
+    "company": "oklo",
+    "ats": "greenhouse",
+    "location": "Santa Clara, CA or Remote",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/oklo/jobs/6015636004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6014522004",
+    "title": "Enterprise Account Executive, UK",
+    "company": "algolia",
+    "ats": "greenhouse",
+    "location": "London, England",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/6014522004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6013604004",
+    "title": "Construction Project Coordinator",
+    "company": "oklo",
+    "ats": "greenhouse",
+    "location": "Idaho Falls, ID",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/oklo/jobs/6013604004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6013588004",
+    "title": "Southeastern Idaho Environmental Specialist",
+    "company": "oklo",
+    "ats": "greenhouse",
+    "location": "Southeast Idaho",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/oklo/jobs/6013588004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6009192004",
+    "title": "Software Engineer II - Lisbon",
+    "company": "pagerduty",
+    "ats": "greenhouse",
+    "location": "Lisbon",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/pagerduty/jobs/6009192004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6008965004",
+    "title": "Solutions Architect",
+    "company": "algolia",
+    "ats": "greenhouse",
+    "location": "Sydney, Australia",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/6008965004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_6001113004",
+    "title": "Customer Success Engineer ",
+    "company": "algolia",
+    "ats": "greenhouse",
+    "location": "Sydney, Australia",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/algolia/jobs/6001113004",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_5917202",
+    "title": "Machine Learning Engineer, PhD Intern (Fall)",
+    "company": "instacart",
+    "ats": "greenhouse",
+    "location": "United States - Remote",
+    "remote": 1,
+    "apply_url": "https://instacart.careers/job/?gh_jid=5917202",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_5161852007",
+    "title": "AI Business Operations Analyst - S\u00e3o Paulo (Hybrid)",
+    "company": "clara",
+    "ats": "greenhouse",
+    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clara/jobs/5161852007",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_5161494007",
+    "title": "AI Business Operations Analyst - Mexico City (Hybrid)",
+    "company": "clara",
+    "ats": "greenhouse",
+    "location": "Mexico City, Mexico City, Mexico",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clara/jobs/5161494007",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_5161460007",
+    "title": "Chargeback Associate (Asociado de Contracargos) - Mexico City (Hybrid)",
+    "company": "clara",
+    "ats": "greenhouse",
+    "location": "Mexico City, Mexico City, Mexico",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clara/jobs/5161460007",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_4704551005",
+    "title": "IT Systems Engineer",
+    "company": "scaleai",
+    "ats": "greenhouse",
+    "location": "Washington, DC",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4704551005",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_4704248005",
+    "title": "Fulfillment Associate",
+    "company": "goatgroup",
+    "ats": "greenhouse",
+    "location": "Teterboro, New Jersey, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/goatgroup/jobs/4704248005",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_4667922006",
+    "title": "Global Robotics Partnership Associate",
+    "company": "instawork",
+    "ats": "greenhouse",
+    "location": "Bengaluru, Karnataka, India",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/instawork/jobs/4667922006",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_4651150006",
+    "title": "Trainer Intern",
+    "company": "instawork",
+    "ats": "greenhouse",
+    "location": "Bengaluru, Karnataka, India",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/instawork/jobs/4651150006",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_4594879005",
+    "title": "Software Engineer, Platform",
+    "company": "scaleai",
+    "ats": "greenhouse",
+    "location": "San Francisco, CA; New York, NY",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4594879005",
+    "date_found": "2026-06-11"
+  },
+  {
+    "id": "gh_4279432009",
+    "title": "Pet Insurance Sales Associate - Tucson, AZ ",
+    "company": "fetch",
+    "ats": "greenhouse",
+    "location": "Tucson, AZ",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/fetch/jobs/4279432009",
+    "date_found": "2026-06-11"
+  },
+  {
     "id": "lv_c19661b5-4fd1-4b7c-bc47-c3aef213b128",
     "title": "Behavioral Health Counselor",
     "company": "glide",
