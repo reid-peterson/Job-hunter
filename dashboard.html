@@ -457,25 +457,6 @@
 
 <div class="container">
 
-  <!-- LOAD PANEL -->
-  <div class="load-panel" id="load-panel">
-    <h3>Load Job Data</h3>
-    <p>
-      Run <code>python fetcher.py --export</code> to generate <code>data/jobs.json</code>,
-      then paste or drop it below. Your status (saved/applied/notes) is stored in the browser.
-    </p>
-    <div class="json-drop" id="drop-zone">
-      Drop <code>jobs.json</code> here, or click to browse
-      <input type="file" id="file-input" accept=".json" style="display:none">
-    </div>
-    <textarea id="json-input" placeholder='Or paste raw JSON here: [{"id":"gh_123","title":"..."}]'></textarea>
-    <div style="display:flex;gap:8px;align-items:center">
-      <button class="btn-primary" onclick="loadJSON()">Load Jobs</button>
-      <button class="btn" onclick="loadDemo()">Load Demo Data</button>
-      <span id="load-msg" style="font-family:var(--mono);font-size:11px;color:var(--muted)"></span>
-    </div>
-  </div>
-
   <!-- STATS -->
   <div class="stats-bar" id="stats-bar" style="display:none">
     <div class="stat-block accent">
@@ -573,14 +554,17 @@ function getJobState(id) {
 
 // ── LOAD ───────────────────────────────────────────────────────────────────
 
-function loadJSON() {
-  const raw = document.getElementById('json-input').value.trim();
+const DATA_URL = "https://raw.githubusercontent.com/reid-peterson/Job-hunter/main/data/jobs.json";
+
+async function autoLoad() {
+  setMsg('⏳ Loading jobs...');
   try {
-    const jobs = JSON.parse(raw);
-    if (!Array.isArray(jobs)) throw new Error('Expected array');
+    const res = await fetch(DATA_URL);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const jobs = await res.json();
     ingestJobs(jobs);
   } catch(e) {
-    setMsg('❌ Invalid JSON: ' + e.message);
+    setMsg('❌ Could not load jobs: ' + e.message);
   }
 }
 
@@ -796,6 +780,9 @@ document.getElementById('notes-modal').addEventListener('click', e => {
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') closeModal();
 });
+
+// auto-fetch on page load
+autoLoad();
 </script>
 </body>
 </html>

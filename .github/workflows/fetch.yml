@@ -3,6 +3,9 @@ on:
     - cron: '0 12 * * *'   # runs daily at 12pm UTC (8am EST)
   workflow_dispatch:         # lets you trigger it manually from GitHub UI
 
+permissions:
+  contents: write
+     # needed to commit changes back to the repo
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -15,6 +18,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Fetch jobs
         continue-on-error: true
