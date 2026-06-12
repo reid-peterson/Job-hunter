@@ -13,17 +13,12 @@ import sqlite3
 import re
 from datetime import datetime, date
 
-# ─────────────────────────────────────────────
-# CONFIGURATION — edit these to your liking
-# ─────────────────────────────────────────────
 
 INCLUDE_KEYWORDS = [
     "junior", "entry", "entry-level", "entry level",
-    "associate", "new grad", "new graduate",
-    "0-2 years", "0-1 year", "1-2 years",
-    "early career", "intern", "internship",
-    "analyst", "coordinator", "assistant", "engineer i",
-    "level 1", "level i", "l1",
+    "associate", "new grad", "new graduate", "recent graduate",
+    "recent grad","0-2 years", "0-1 year", "1-2 years",
+    "early career", "level 1", "level i", "l1",
 ]
 
 EXCLUDE_KEYWORDS = [
@@ -36,10 +31,9 @@ EXCLUDE_KEYWORDS = [
 
 # Only include jobs matching these role areas (leave empty to allow all)
 ROLE_KEYWORDS = [
-    "engineer", "developer", "software", "data", "analyst",
-    "product", "design", "marketing", "operations", "finance",
-    "research", "science", "backend", "frontend", "fullstack",
-    "devops", "security", "machine learning", "ml", "ai",
+    "data", "FP&A", "statistics", "analytics",
+    "machine learning", "ml", "ai", "quantitative", "analyst", "BI",
+    "business intelligence",
 ]
 
 DB_PATH = "data/jobs.db"
