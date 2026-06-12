@@ -22,8 +22,7 @@ INCLUDE_KEYWORDS = [
     "associate", "new grad", "new graduate",
     "0-2 years", "0-1 year", "1-2 years",
     "early career", "intern", "internship",
-    "analyst", "coordinator", "assistant",
-    "software engineer i", "engineer i",
+    "analyst", "coordinator", "assistant", "engineer i",
     "level 1", "level i", "l1",
 ]
 
@@ -419,8 +418,13 @@ def run():
         fetcher = FETCHERS.get(ats)
         if not fetcher:
             continue
+        
+        try:
+            jobs = fetcher(slug)
+        except Exception as e:
+            print(f"  ✗ {ats}/{slug} — error occurred: {e}")
+            continue
 
-        jobs = fetcher(slug)
         total_checked += 1
 
         if jobs is None:

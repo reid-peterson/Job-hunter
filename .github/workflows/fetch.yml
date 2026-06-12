@@ -17,6 +17,7 @@ jobs:
           python-version: '3.11'
 
       - name: Fetch jobs
+        continue-on-error: true
         run: python fetcher.py
 
       - name: Export to JSON
