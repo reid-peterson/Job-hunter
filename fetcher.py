@@ -26,7 +26,7 @@ EXCLUDE_KEYWORDS = [
     "director", "manager", "vp ", "vice president", "head of",
     "5+ years", "6+ years", "7+ years", "8+ years", "10+ years",
     "5 years", "6 years", "7 years", "8 years",
-    "secret clearance", "top secret",
+    "secret clearance", "top secret", "data entry",
 ]
 
 # Only include jobs matching these role areas (leave empty to allow all)
@@ -287,11 +287,12 @@ def fetch_smartrecruiters(slug):
 
 def passes_filter(job):
     """Return True if a job matches our criteria."""
+    title_lower = job["title"].lower()
     searchable = f"{job['title']} {job['description']}".lower()
 
     # Must match at least one role keyword (if list is non-empty)
     if ROLE_KEYWORDS:
-        if not any(kw in searchable for kw in ROLE_KEYWORDS):
+        if not any(kw in title_lower for kw in ROLE_KEYWORDS):
             return False
 
     # Must match at least one include keyword
@@ -299,9 +300,10 @@ def passes_filter(job):
         return False
 
     # Must not match any exclude keyword in the TITLE specifically
-    title_lower = job["title"].lower()
     if any(kw in title_lower for kw in EXCLUDE_KEYWORDS):
         return False
+    
+    print(f"PASSED: {job['title']} | role_kw_check_ran={bool(ROLE_KEYWORDS)}")
 
     return True
 
@@ -448,16 +450,16 @@ def run():
 
 
 if __name__ == "__main__":
+    print("DEBUG")
     import argparse as _ap
     p = _ap.ArgumentParser(description="Job Hunter fetcher")
     p.add_argument("--export", action="store_true",
                    help="Export jobs to data/jobs.json for the dashboard")
     args = p.parse_args()
+    print(f"ROLE_KEYWORDS: {ROLE_KEYWORDS}")
     if args.export:
         init_db()
         export_json()
     else:
         run()
-
-
 
