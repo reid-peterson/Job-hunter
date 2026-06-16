@@ -1,5 +1,75 @@
 [
   {
+    "id": "gh_8008880",
+    "title": "Growth Engineer",
+    "company": "stripe",
+    "ats": "greenhouse",
+    "location": "New York, NY",
+    "remote": 0,
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8008880",
+    "date_found": "2026-06-16"
+  },
+  {
+    "id": "gh_8007051",
+    "title": "Recordkeeping Operations Associate",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "location": "United States, Remote",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/humaninterest/jobs/8007051",
+    "date_found": "2026-06-16"
+  },
+  {
+    "id": "gh_8002856",
+    "title": "Contribution Trade Operations Associate",
+    "company": "humaninterest",
+    "ats": "greenhouse",
+    "location": "United States, Remote",
+    "remote": 1,
+    "apply_url": "https://job-boards.greenhouse.io/humaninterest/jobs/8002856",
+    "date_found": "2026-06-16"
+  },
+  {
+    "id": "gh_7981654",
+    "title": "Ocean Operations Associate",
+    "company": "flexport",
+    "ats": "greenhouse",
+    "location": "Shenzhen, China",
+    "remote": 0,
+    "apply_url": "https://boards.greenhouse.io/flexport/jobs/7981654?gh_jid=7981654",
+    "date_found": "2026-06-16"
+  },
+  {
+    "id": "gh_5150552007",
+    "title": "Inbound Sales Account Executive - Mexico City (Hybrid)",
+    "company": "clara",
+    "ats": "greenhouse",
+    "location": "Mexico City, Mexico City, Mexico",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/clara/jobs/5150552007",
+    "date_found": "2026-06-16"
+  },
+  {
+    "id": "gh_4287312009",
+    "title": "Pet Insurance Sales Associate - Sarasota, FL",
+    "company": "fetch",
+    "ats": "greenhouse",
+    "location": "Sarasota, FL",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/fetch/jobs/4287312009",
+    "date_found": "2026-06-16"
+  },
+  {
+    "id": "gh_4287295009",
+    "title": "Pet Insurance Sales Associate - San Diego, CA",
+    "company": "fetch",
+    "ats": "greenhouse",
+    "location": "San Diego, CA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/fetch/jobs/4287295009",
+    "date_found": "2026-06-16"
+  },
+  {
     "id": "gh_7772750003",
     "title": "Junior Accountant",
     "company": "xendit",
