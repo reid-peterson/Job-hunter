@@ -31,8 +31,8 @@ EXCLUDE_KEYWORDS = [
 
 # Only include jobs matching these role areas (leave empty to allow all)
 ROLE_KEYWORDS = [
-    "data", "FP&A", "statistics", "analytics",
-    "machine learning", "ml", "ai", "quantitative", "analyst", "BI",
+    "data", "fp&a", "statistics", "analytics",
+    "machine learning", "ml", "quantitative", "analyst",
     "business intelligence",
 ]
 
