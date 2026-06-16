@@ -512,11 +512,6 @@
     </button>
   </div>
 
-  <!-- LOAD MSG -->
-  <div id="load-msg" style="font-family:var(--mono);font-size:13px;color:var(--muted);padding:40px 0;">
-    ⏳ Loading jobs...
-  </div>
-
   <!-- JOB LIST -->
   <div id="job-list"></div>
 
@@ -559,6 +554,21 @@ function getJobState(id) {
 
 // ── LOAD ───────────────────────────────────────────────────────────────────
 
+
+function ingestJobs(jobs) {
+  allJobs = jobs;
+  document.getElementById('load-panel').style.display = 'none';
+  document.getElementById('stats-bar').style.display = 'flex';
+  document.getElementById('controls').style.display = 'grid';
+  updateStats();
+  render();
+  setMsg('');
+}
+
+function setMsg(m) {
+  document.getElementById('load-msg').textContent = m;
+}
+
 const DATA_URL = "https://raw.githubusercontent.com/reid-peterson/Job-hunter/master/data/jobs.json";
 
 async function autoLoad() {
@@ -573,20 +583,51 @@ async function autoLoad() {
   }
 }
 
-function ingestJobs(jobs) {
-  allJobs = jobs;
-  document.getElementById('load-msg').style.display = 'none';
-  document.getElementById('stats-bar').style.display = 'flex';
-  document.getElementById('controls').style.display = 'grid';
-  updateStats();
-  render();
-  setMsg('');
+
+// File drop
+const dropZone = document.getElementById('drop-zone');
+const fileInput = document.getElementById('file-input');
+
+dropZone.addEventListener('click', () => fileInput.click());
+dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
+dropZone.addEventListener('drop', e => {
+  e.preventDefault();
+  dropZone.classList.remove('drag-over');
+  const file = e.dataTransfer.files[0];
+  if (file) readFile(file);
+});
+
+fileInput.addEventListener('change', e => {
+  if (e.target.files[0]) readFile(e.target.files[0]);
+});
+
+function readFile(file) {
+  const reader = new FileReader();
+  reader.onload = e => {
+    try {
+      const jobs = JSON.parse(e.target.result);
+      ingestJobs(jobs);
+    } catch { setMsg('❌ Could not parse file'); }
+  };
+  reader.readAsText(file);
 }
 
-function setMsg(m) {
-  document.getElementById('load-msg').textContent = m;
-}
+// ── DEMO DATA ──────────────────────────────────────────────────────────────
 
+function loadDemo() {
+  const demo = [
+    { id:'gh_001', title:'Junior Software Engineer', company:'stripe', ats:'greenhouse', location:'Remote', remote:1, date_found:'2026-05-11', apply_url:'https://boards.greenhouse.io/stripe' },
+    { id:'gh_002', title:'Associate Product Manager', company:'notion', ats:'greenhouse', location:'San Francisco, CA', remote:0, date_found:'2026-05-11', apply_url:'https://boards.greenhouse.io/notion' },
+    { id:'lv_003', title:'Entry Level Data Analyst', company:'scale-ai', ats:'lever', location:'Remote', remote:1, date_found:'2026-05-10', apply_url:'https://jobs.lever.co/scale-ai' },
+    { id:'lv_004', title:'Associate Software Engineer', company:'miro', ats:'lever', location:'New York, NY', remote:0, date_found:'2026-05-10', apply_url:'https://jobs.lever.co/miro' },
+    { id:'ash_005', title:'Junior ML Engineer', company:'cohere', ats:'ashby', location:'Remote', remote:1, date_found:'2026-05-09', apply_url:'https://jobs.ashbyhq.com/cohere' },
+    { id:'ash_006', title:'New Grad - Software Engineer', company:'linear', ats:'ashby', location:'San Francisco, CA', remote:0, date_found:'2026-05-09', apply_url:'https://jobs.ashbyhq.com/linear' },
+    { id:'gh_007', title:'Entry Level Backend Engineer', company:'cloudflare', ats:'greenhouse', location:'Austin, TX', remote:0, date_found:'2026-05-08', apply_url:'https://boards.greenhouse.io/cloudflare' },
+    { id:'lv_008', title:'Junior Frontend Developer', company:'retool', ats:'lever', location:'Remote', remote:1, date_found:'2026-05-08', apply_url:'https://jobs.lever.co/retool' },
+  ];
+  ingestJobs(demo);
+}
 
 // ── FILTERS ────────────────────────────────────────────────────────────────
 
@@ -743,7 +784,7 @@ document.addEventListener('keydown', e => {
 });
 
 // auto-fetch on page load
-document.addEventListener('DOMContentLoaded', () => autoLoad());
+autoLoad();
 </script>
 </body>
 </html>
