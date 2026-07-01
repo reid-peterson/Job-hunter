@@ -1,5 +1,85 @@
 [
   {
+    "id": "sr_744000135240957",
+    "title": "Junior Laboratory Analyst",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Belfast, gb",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000135240957",
+    "date_found": "2026-07-01"
+  },
+  {
+    "id": "sr_744000135106019",
+    "title": "PLM Laboratory Analyst (Temporary Contract) - Eurofins Enviro-Works Inc.",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Edmonton, ca",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000135106019",
+    "date_found": "2026-07-01"
+  },
+  {
+    "id": "sr_744000135091589",
+    "title": "Associate Data Review Scientist",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Lancaster, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000135091589",
+    "date_found": "2026-07-01"
+  },
+  {
+    "id": "sr_744000135066551",
+    "title": "Mechanical Commissioning Engineer - (Data Center)",
+    "company": "veoliaenvironnementsa",
+    "ats": "smartrecruiters",
+    "location": "New York, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/veoliaenvironnementsa/744000135066551",
+    "date_found": "2026-07-01"
+  },
+  {
+    "id": "sr_744000135045830",
+    "title": "Data Analyst, Analytics & Insights",
+    "company": "universityhealthnetwork",
+    "ats": "smartrecruiters",
+    "location": "Toronto, ca",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/universityhealthnetwork/744000135045830",
+    "date_found": "2026-07-01"
+  },
+  {
+    "id": "sr_3743990013876949",
+    "title": "Quality Control Analyst",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "Sligo, ie",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990013876949",
+    "date_found": "2026-07-01"
+  },
+  {
+    "id": "sr_3743990013862016",
+    "title": "Associate, Data Sciences II",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "North Chicago, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990013862016",
+    "date_found": "2026-07-01"
+  },
+  {
+    "id": "gh_5171330007",
+    "title": "Division Operations Analyst, Counter Intrusion",
+    "company": "andurilindustries",
+    "ats": "greenhouse",
+    "location": "Irvine, California, United States",
+    "remote": 0,
+    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5171330007?gh_jid=5171330007",
+    "date_found": "2026-07-01"
+  },
+  {
     "id": "sr_744000134985001",
     "title": "FP&A Analyst - Temporary Contract",
     "company": "Redbull",
