@@ -1,5 +1,135 @@
 [
   {
+    "id": "sr_744000139697249",
+    "title": "Data Engineer ",
+    "company": "Redbull",
+    "ats": "smartrecruiters",
+    "location": "Santa Monica, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/Redbull/744000139697249",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_744000139683109",
+    "title": "Associate Electrical Engineer - Data Center",
+    "company": "veoliaenvironnementsa",
+    "ats": "smartrecruiters",
+    "location": "Fredericksburg, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/veoliaenvironnementsa/744000139683109",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_744000139683009",
+    "title": "Associate Mechanical Engineer \u2013 (Data Center)",
+    "company": "veoliaenvironnementsa",
+    "ats": "smartrecruiters",
+    "location": "Fredericksburg, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/veoliaenvironnementsa/744000139683009",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_744000139680000",
+    "title": "Mechanical Commissioning Engineer (Data Center)",
+    "company": "veoliaenvironnementsa",
+    "ats": "smartrecruiters",
+    "location": "Fredericksburg, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/veoliaenvironnementsa/744000139680000",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_744000139679501",
+    "title": "Mechanical Commissioning Engineer (Data Center)",
+    "company": "veoliaenvironnementsa",
+    "ats": "smartrecruiters",
+    "location": "Ashburn, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/veoliaenvironnementsa/744000139679501",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_744000139636440",
+    "title": "Analyst I (Microbiology, Temporary Contract) - Eurofins Cosmetics & Personal Care, Inc.",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Toronto, ca",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000139636440",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_744000139636191",
+    "title": "Energy Analyst",
+    "company": "veoliaenvironnementsa",
+    "ats": "smartrecruiters",
+    "location": "New York, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/veoliaenvironnementsa/744000139636191",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_744000139625252",
+    "title": "Materials Analyst, Microscopy (XSEM)",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Milpitas, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000139625252",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_3743990014276326",
+    "title": "System Design Analyst II - HYBRID",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "North Chicago, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990014276326",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_3743990014275969",
+    "title": "System Design Analyst II - HYBRID",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "Irvine, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990014275969",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "sr_3743990014271676",
+    "title": "Scientist I, Bioanalytics",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "North Chicago, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990014271676",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "lv_a425f84c-98e4-4c4d-b163-b10010331257",
+    "title": "Quantitative Meteorologist",
+    "company": "make-rain",
+    "ats": "lever",
+    "location": "El Segundo, CA",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/make-rain/a425f84c-98e4-4c4d-b163-b10010331257",
+    "date_found": "2026-07-25"
+  },
+  {
+    "id": "lv_12553367-54eb-4fb8-8268-d52b3f05d86b",
+    "title": "Rainmaker Fellow, Machine Learning",
+    "company": "make-rain",
+    "ats": "lever",
+    "location": "El Segundo, CA",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/make-rain/12553367-54eb-4fb8-8268-d52b3f05d86b",
+    "date_found": "2026-07-25"
+  },
+  {
     "id": "sr_744000139604179",
     "title": "Project Analyst, Interventional Radiology Improvement Initiative ",
     "company": "universityhealthnetwork",
