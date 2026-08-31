@@ -1,5 +1,285 @@
 [
   {
+    "id": "sr_744000146448619",
+    "title": "Data Scientist (Supply Chain focus)",
+    "company": "Redbull",
+    "ats": "smartrecruiters",
+    "location": "Elsbethen, at",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/Redbull/744000146448619",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "sr_744000146390969",
+    "title": "Sales Business Analyst",
+    "company": "continental",
+    "ats": "smartrecruiters",
+    "location": "Huay Khwang, th",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/continental/744000146390969",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "sr_3743990014952326",
+    "title": "Scientist, Data II",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "North Chicago, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990014952326",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_f0fcbe8a-bd14-417d-bc69-68bb44adb2e8",
+    "title": "Target Digital Network Analyst 4",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/f0fcbe8a-bd14-417d-bc69-68bb44adb2e8",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_ecc2ec7a-42fc-4ba5-8b24-2f103ff3737e",
+    "title": "Database Developer",
+    "company": "datalabusa",
+    "ats": "lever",
+    "location": "Germantown, MD",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/datalabusa/ecc2ec7a-42fc-4ba5-8b24-2f103ff3737e",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_be7e0ae6-568e-41b5-9d0b-ccdf757ba351",
+    "title": "Digital Network Exploitation Analyst 2",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/be7e0ae6-568e-41b5-9d0b-ccdf757ba351",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_b9599677-a3ba-48e8-8bd7-1e8f57a9fec7",
+    "title": "Target Digital Network Analyst 2",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/b9599677-a3ba-48e8-8bd7-1e8f57a9fec7",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_b490ee2d-7685-43ac-91d5-4f2135136f9a",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/b490ee2d-7685-43ac-91d5-4f2135136f9a",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_b4831410-b020-42fc-8285-c57574daa7e6",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/b4831410-b020-42fc-8285-c57574daa7e6",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_b3956e7f-e9f8-4797-bd8b-a6c20d35ff4a",
+    "title": "Digital Network Exploitation Analyst 2",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/b3956e7f-e9f8-4797-bd8b-a6c20d35ff4a",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_b2c7b0c3-c3c7-47e6-a2d0-8c2377928068",
+    "title": "Target Digital Network Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/b2c7b0c3-c3c7-47e6-a2d0-8c2377928068",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_acf2b098-21b0-45b9-81b4-48c7b4ef415b",
+    "title": "Target Digital Network Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/acf2b098-21b0-45b9-81b4-48c7b4ef415b",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_a96f5f60-1cbb-47e2-9b83-398255aa2410",
+    "title": "Digital Network Exploitation Analyst 2",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/a96f5f60-1cbb-47e2-9b83-398255aa2410",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_9c5dfd8a-0e82-4b1c-be5b-2026b5178cfe",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/9c5dfd8a-0e82-4b1c-be5b-2026b5178cfe",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_72b61533-aa44-419e-bfc1-c0aef45c8b5b",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/72b61533-aa44-419e-bfc1-c0aef45c8b5b",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_607c5ba6-7184-4e4e-9ea4-f8400e8c260f",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/607c5ba6-7184-4e4e-9ea4-f8400e8c260f",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_44d3e8b1-0d3e-4a4c-8045-baff57a3c52b",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/44d3e8b1-0d3e-4a4c-8045-baff57a3c52b",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_26c6f7fc-a0b6-4ae3-8e99-3c9ca27a99f3",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/26c6f7fc-a0b6-4ae3-8e99-3c9ca27a99f3",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_2530fde0-86a7-4dc8-9100-924632c877e6",
+    "title": "Strategic Finance Associate, Data & Reporting",
+    "company": "fi",
+    "ats": "lever",
+    "location": "New York, NY",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/fi/2530fde0-86a7-4dc8-9100-924632c877e6",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_24177c43-5d15-4c35-8677-961463635c1a",
+    "title": "Target Digital Network Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/24177c43-5d15-4c35-8677-961463635c1a",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_23f3bbb0-fcf6-4f08-aacd-a2b4973ee813",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/23f3bbb0-fcf6-4f08-aacd-a2b4973ee813",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_1fd2843c-e07e-4196-9def-c7b91b2934e5",
+    "title": "Digital Network Exploitation Analyst 2",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/1fd2843c-e07e-4196-9def-c7b91b2934e5",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_1755a456-212d-484a-ad2c-bff9a91f6b2d",
+    "title": "Digital Network Exploitation Analyst 2",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/1755a456-212d-484a-ad2c-bff9a91f6b2d",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_1435bbc8-3d27-4118-b225-66ba2b372582",
+    "title": "Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Aurora, Colorado",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/1435bbc8-3d27-4118-b225-66ba2b372582",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_1234ddcd-b371-411f-afae-66912c7120ad",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/1234ddcd-b371-411f-afae-66912c7120ad",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_0cb3a076-9eab-4e2b-bcb7-36e4cf46b0aa",
+    "title": "Digital Network Exploitation Analyst 3  (CCAs Accepted)",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/0cb3a076-9eab-4e2b-bcb7-36e4cf46b0aa",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_05d18664-92a1-49b0-b4b2-a86df1f6522e",
+    "title": "Target Digital Network Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/05d18664-92a1-49b0-b4b2-a86df1f6522e",
+    "date_found": "2026-08-31"
+  },
+  {
+    "id": "lv_028b82bb-55de-4a98-8e4e-14aea2f157bc",
+    "title": "Digital Network Exploitation Analyst 3",
+    "company": "wyetechllc",
+    "ats": "lever",
+    "location": "Annapolis Junction, Maryland",
+    "remote": 0,
+    "apply_url": "https://jobs.lever.co/wyetechllc/028b82bb-55de-4a98-8e4e-14aea2f157bc",
+    "date_found": "2026-08-31"
+  },
+  {
     "id": "sr_744000146260329",
     "title": "Research Analyst I",
     "company": "universityhealthnetwork",
