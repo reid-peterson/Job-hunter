@@ -1,5 +1,95 @@
 [
   {
+    "id": "sr_744000146973504",
+    "title": "Customer Service Co-Ordinator - Analytics & Planning ",
+    "company": "Redbull",
+    "ats": "smartrecruiters",
+    "location": "Cape Town, za",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/Redbull/744000146973504",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "sr_744000146780482",
+    "title": "Survey, Data, and Reporting Analyst ",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Plymouth, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000146780482",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "sr_744000146778580",
+    "title": "Materials Analyst, Microscopy (XSEM)",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Milpitas, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000146778580",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "sr_744000146776330",
+    "title": "Laboratory Analyst I - Eurofins Drinking Water & Wastewater - Columbia (Irmo), SC",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Irmo, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000146776330",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "sr_3743990015009036",
+    "title": "Indirect Tax Accounting Analyst ",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "Krak\u00f3w, pl",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990015009036",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "sr_3743990014999256",
+    "title": "Associate Scientist, Data I",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "North Chicago, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990014999256",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "sr_3743990014994734",
+    "title": "Lab Analyst II",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "North Chicago, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990014994734",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "gh_6167113004",
+    "title": "Junior Financial Analyst",
+    "company": "poka",
+    "ats": "greenhouse",
+    "location": "Montreal, Quebec",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/poka/jobs/6167113004",
+    "date_found": "2026-09-02"
+  },
+  {
+    "id": "gh_5151492007",
+    "title": "Junior Data Engineer",
+    "company": "transmarketgroup",
+    "ats": "greenhouse",
+    "location": "Chicago, Illinois, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151492007?gh_jid=5151492007",
+    "date_found": "2026-09-02"
+  },
+  {
     "id": "sr_744000146758359",
     "title": "GMP Analytical Chemistry Data Reviewer",
     "company": "eurofins",
