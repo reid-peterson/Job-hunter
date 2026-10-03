@@ -1,5 +1,65 @@
 [
   {
+    "id": "sr_744000153254629",
+    "title": "Financial Analyst I",
+    "company": "universityhealthnetwork",
+    "ats": "smartrecruiters",
+    "location": "Toronto, ca",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/universityhealthnetwork/744000153254629",
+    "date_found": "2026-10-03"
+  },
+  {
+    "id": "sr_3743990015875926",
+    "title": "Statistical Analyst - ADaM Programming (Hybrid)",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "Irvine, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990015875926",
+    "date_found": "2026-10-03"
+  },
+  {
+    "id": "sr_3743990015875886",
+    "title": "Statistical Analyst - ADaM Programming (Hybrid)",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "South San Francisco, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990015875886",
+    "date_found": "2026-10-03"
+  },
+  {
+    "id": "sr_3743990015875676",
+    "title": "Statistical Analyst - ADaM Programming (Hybrid)",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "North Chicago, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990015875676",
+    "date_found": "2026-10-03"
+  },
+  {
+    "id": "sr_3743990015875321",
+    "title": "Statistical Analyst - ADaM Programming (Hybrid)",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "Florham Park, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990015875321",
+    "date_found": "2026-10-03"
+  },
+  {
+    "id": "gh_8008645003",
+    "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+    "company": "affirm",
+    "ats": "greenhouse",
+    "location": "San Francisco, California, United States",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+    "date_found": "2026-10-03"
+  },
+  {
     "id": "sr_744000153141089",
     "title": "Junior Data Engineer (BI Developer)",
     "company": "continental",
