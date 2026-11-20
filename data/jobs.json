@@ -1,5 +1,135 @@
 [
   {
+    "id": "sr_744000162807898",
+    "title": "Research Analyst",
+    "company": "universityhealthnetwork",
+    "ats": "smartrecruiters",
+    "location": "Toronto, ca",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/universityhealthnetwork/744000162807898",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162782829",
+    "title": "Materials Analyst, TEM",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Raleigh, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000162782829",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162774199",
+    "title": "Laboratory Analyst (ICPMS) - Eurofins Environment Testing - Lancaster, PA",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Lancaster, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000162774199",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162766869",
+    "title": "Chemistry Analyst",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Carlow, ie",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000162766869",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162753362",
+    "title": "Life Sciences Data Scientist",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Groton, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000162753362",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162724599",
+    "title": "Laboratory Analyst - Fertiliser Testing",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Ipswich, gb",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000162724599",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162654219",
+    "title": "Drug Development Data Scientist",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Groton, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000162654219",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162653859",
+    "title": "Pharmaceutical Data Scientist",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Groton, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000162653859",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162613320",
+    "title": "Rate Analyst",
+    "company": "veoliaenvironnementsa",
+    "ats": "smartrecruiters",
+    "location": "Paramus, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/veoliaenvironnementsa/744000162613320",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "sr_744000162604510",
+    "title": "Analyst, Category Insights",
+    "company": "Redbull",
+    "ats": "smartrecruiters",
+    "location": "Santa Monica, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/Redbull/744000162604510",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "gh_8932692002",
+    "title": "Graduate Program: Entry Level Analytics Developer",
+    "company": "furtherearlycareer",
+    "ats": "greenhouse",
+    "location": "Cleveland, Ohio",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "gh_8932674002",
+    "title": "Graduate Program: Entry-Level AI/Data Engineer ",
+    "company": "furtherearlycareer",
+    "ats": "greenhouse",
+    "location": "Cleveland, Ohio",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002",
+    "date_found": "2026-11-20"
+  },
+  {
+    "id": "gh_8906228002",
+    "title": "Graduate Program: Entry Level Analyst",
+    "company": "furtherearlycareer",
+    "ats": "greenhouse",
+    "location": "Cleveland, Ohio",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906228002",
+    "date_found": "2026-11-20"
+  },
+  {
     "id": "sr_744000162573869",
     "title": "Laboratory Analyst - PLM  (TU - SA, 1PM - 9PM) Eurofins Built Environment Testing - Reservoirs, Arvada, CO",
     "company": "eurofins",
