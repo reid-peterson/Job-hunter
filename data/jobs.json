@@ -1,5 +1,45 @@
 [
   {
+    "id": "sr_744000163755547",
+    "title": "Environmental Analyst II",
+    "company": "continental",
+    "ats": "smartrecruiters",
+    "location": "Clinton, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/continental/744000163755547",
+    "date_found": "2026-11-25"
+  },
+  {
+    "id": "sr_744000163750479",
+    "title": "Laboratory Analyst - PLM  (TU - SA, 1PM - 9PM) Eurofins Built Environment Testing - Reservoirs, Arvada, CO",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Arvada, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000163750479",
+    "date_found": "2026-11-25"
+  },
+  {
+    "id": "sr_744000163558000",
+    "title": "Laboratory Analyst I, Eurofins Environment Testing Northern California - Air Toxics, Folsom, CA",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Folsom, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000163558000",
+    "date_found": "2026-11-25"
+  },
+  {
+    "id": "gh_4477299009",
+    "title": "ML Scientist, Retrieval & RAG for Scientific Literature",
+    "company": "lilasciences",
+    "ats": "greenhouse",
+    "location": "Cambridge, MA USA; San Francisco, CA USA",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477299009",
+    "date_found": "2026-11-25"
+  },
+  {
     "id": "sr_744000163537529",
     "title": "Data Center Commissioning - Mechanical Engineer ",
     "company": "veoliaenvironnementsa",
