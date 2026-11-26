@@ -1,5 +1,85 @@
 [
   {
+    "id": "sr_744000163898579",
+    "title": "Data Clerk",
+    "company": "universityhealthnetwork",
+    "ats": "smartrecruiters",
+    "location": "Toronto, ca",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/universityhealthnetwork/744000163898579",
+    "date_found": "2026-11-26"
+  },
+  {
+    "id": "sr_744000163776709",
+    "title": "TEM Asbestos Analyst - Eurofins Built Environment Testing, Emeryville, CA",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Emeryville, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000163776709",
+    "date_found": "2026-11-26"
+  },
+  {
+    "id": "sr_744000163776425",
+    "title": "Asbestos PLM Analyst - Eurofins Built Environment Testing - Emeryville, CA",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Emeryville, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000163776425",
+    "date_found": "2026-11-26"
+  },
+  {
+    "id": "sr_744000163771029",
+    "title": "Laboratory Analyst II - PFAS / LC-MS, Eurofins Environment Testing, Arvada, CO",
+    "company": "eurofins",
+    "ats": "smartrecruiters",
+    "location": "Arvada, us",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/eurofins/744000163771029",
+    "date_found": "2026-11-26"
+  },
+  {
+    "id": "sr_3743990017107966",
+    "title": "FP&A Analyst",
+    "company": "abbvie",
+    "ats": "smartrecruiters",
+    "location": "Marlow, gb",
+    "remote": 0,
+    "apply_url": "https://careers.smartrecruiters.com/abbvie/3743990017107966",
+    "date_found": "2026-11-26"
+  },
+  {
+    "id": "gh_4732464006",
+    "title": "Junior Data Engineer \u2013 London, Glasgow",
+    "company": "mthreerecruitingportal",
+    "ats": "greenhouse",
+    "location": "UK",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4732464006",
+    "date_found": "2026-11-26"
+  },
+  {
+    "id": "gh_4732462006",
+    "title": "Junior Data Engineer \u2013 London, Glasgow",
+    "company": "mthreerecruitingportal",
+    "ats": "greenhouse",
+    "location": "UK",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4732462006",
+    "date_found": "2026-11-26"
+  },
+  {
+    "id": "gh_4732454006",
+    "title": "Junior Data Engineer \u2013 London OR Glasgow",
+    "company": "mthreerecruitingportal",
+    "ats": "greenhouse",
+    "location": "UK",
+    "remote": 0,
+    "apply_url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4732454006",
+    "date_found": "2026-11-26"
+  },
+  {
     "id": "sr_744000163755547",
     "title": "Environmental Analyst II",
     "company": "continental",
